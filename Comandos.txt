@@ -1,0 +1,13 @@
+========================================================== COMANDOS ==========================================================
+
+° npm init -y: Comando utilizado para iniciar un proyecto NodeJS.
+
+° npm install express: Comando utilizado para instalar la última versión de Express.
+
+° npm install ejs: Comando utilizado para instalar la última versión del software de plantillas Easy Java Simulations.
+
+° npm install mysql: Comando utilizado para instalar la última versión del SGBD MySQL.
+
+° npm i nodemon -g: Comando utilizado para instalar la última versión del servidor nodemon.
+
+° nodemon [nombre_archivo]: Comando utilizado para ejecutar un archivo Javascript en el servidor. El servidor corre por defecto en el navegador con la dirección localhost:5000
